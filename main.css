@@ -1,0 +1,15 @@
+div{
+    width: 500px;
+    height: 300px;
+    margin: 25px;
+    border: 1px solid gray;
+
+}
+
+#blue-box {
+    background-color: blue;
+}
+
+.red-box {
+    background-color: red;
+}
